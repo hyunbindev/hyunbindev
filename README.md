@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ Tech Stack
-![ratio]([https://img.shields.io/badge/Java-17-blue?logo=java](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunbindev&layout=compact&theme=dracula))
+![ratio]([https://img.shields.io/badge/Java-17-blue?logo=java](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunbindev&layout=compact&theme=dracula)
 
 ## 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=hyunbin&theme=onedark)
